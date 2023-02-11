@@ -1,0 +1,24 @@
+header {
+	display: flex;
+	align-items: center;
+	height: 50px;
+	color: white;
+	padding: 20px;
+	background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+}
+
+.header-title {
+	font-size: 1.25rem;
+	font-weight: 700;
+	margin-right: auto;
+}
+
+.header-subtitle {
+	font-size: 0.8rem;
+	font-weight: 500;
+}
+
+.troll-face {
+	height: 60%;
+	margin-right: 8px;
+}
