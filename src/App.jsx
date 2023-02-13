@@ -1,11 +1,11 @@
 import Header from './components/Header/Header.jsx'
-import Form from './components/Form/Form.jsx'
+import Meme from './components/Meme/Meme.jsx'
 
 export default function App() {
 	return (
 		<>
 			<Header />
-			<Form />
+			<Meme />
 		</>
 	)
 }
