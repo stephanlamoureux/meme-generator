@@ -11,6 +11,23 @@ body {
 	margin: 0;
 }
 
+#root {
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 5rem;
+}
+
+.wrapper {
+	border: 1px solid #d5d4d8;
+	box-shadow: 1px 1px 8px #c2c2c2;
+}
+
+@media screen and (max-width: 900px) {
+	#root {
+		width: 80%;
+	}
+}
+
 /* @media (prefers-color-scheme: light) {
 	:root {
 		color: #213547;
