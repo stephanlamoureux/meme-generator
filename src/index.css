@@ -28,6 +28,13 @@ body {
 	}
 }
 
+@media screen and (max-width: 500px) {
+	#root {
+		width: 100%;
+		padding-top: 0;
+	}
+}
+
 /* @media (prefers-color-scheme: light) {
 	:root {
 		color: #213547;
